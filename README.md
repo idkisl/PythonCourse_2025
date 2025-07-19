@@ -15,6 +15,9 @@
 ## Программа курса
 
 01. Управляющие конструкции
+    - лекция
+    - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/4dc32a2eda0f9c053a20f0510091988420100e70/01/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_control_structures.ipynb)
+    - домашнее задание
 02. Коллекции в Python: string, list, tuple, set, dict
 03. Функции в Python
 04. ООП в Python
