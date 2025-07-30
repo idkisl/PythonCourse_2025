@@ -23,6 +23,9 @@
     - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/e59cd78f8a9ee803a9c89c406705acec39613de0/02/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_collections.ipynb)
     - домашнее задание
 03. Функции в Python: принимаемые аргументы и возвращаемые значения, функции высших порядков. Декораторы. Генераторы. Итераторы.
+    - лекция
+    - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/673059d04a7471f9fb690e90fe78184d6ad0609e/03/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_functions.ipynb)
+    - домашнее задание
 04. ООП в Python
 05. Исключения и unittest / pytest
 06. Работа с файлами json, csv
