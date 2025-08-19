@@ -33,23 +33,23 @@
 05. Исключения и unittest / pytest
     - лекция
     - семинар
-    - домашнее задание
+    - [домашнее задание](https://github.com/idkisl/PythonCourse_2025/blob/ceac027b79be8b5861c5e232b99e31353404e69e/05/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/practice_%20test.ipynb)
 06. Работа с файлами json, csv
     - лекция
     - семинар
-    - домашнее задание
+    - [домашнее задание](https://github.com/idkisl/PythonCourse_2025/blob/ceac027b79be8b5861c5e232b99e31353404e69e/06/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/practice_%20files.ipynb)
 07. Модуль NumPy
     - лекция
     - семинар
-    - домашнее задание
+    - [домашнее задание](https://github.com/idkisl/PythonCourse_2025/blob/ceac027b79be8b5861c5e232b99e31353404e69e/07/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/practice_numpy.ipynb)
 08. Модуль Matplotlib
     - лекция
     - семинар
-    - домашнее задание
+    - [домашнее задание](https://github.com/idkisl/PythonCourse_2025/blob/ceac027b79be8b5861c5e232b99e31353404e69e/08/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/practice_matplotlib.ipynb)
 09. Модуль Pandas, обзор polars
     - лекция
     - семинар
-    - домашнее задание
+    - [домашнее задание](https://github.com/idkisl/PythonCourse_2025/blob/ceac027b79be8b5861c5e232b99e31353404e69e/09/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/practice_pandas.ipynb)
 10. Модуль requests. Работа с HTTP, socket
     - лекция
     - семинар
