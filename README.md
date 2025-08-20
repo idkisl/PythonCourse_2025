@@ -44,7 +44,7 @@
     - [домашнее задание](https://github.com/idkisl/PythonCourse_2025/blob/ceac027b79be8b5861c5e232b99e31353404e69e/07/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/practice_numpy.ipynb)
 08. Модуль Matplotlib
     - лекция
-    - семинар
+    - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/d0e3a8c354de730cf787795b3ee3dbc7ee7665eb/08/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/practice_matplotlib.ipynb)
     - [домашнее задание](https://github.com/idkisl/PythonCourse_2025/blob/ceac027b79be8b5861c5e232b99e31353404e69e/08/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/practice_matplotlib.ipynb)
 09. Модуль Pandas, обзор polars
     - лекция
