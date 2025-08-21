@@ -19,7 +19,7 @@
     - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/4dc32a2eda0f9c053a20f0510091988420100e70/01/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_control_structures.ipynb)
     - домашнее задание
 02. Коллекции в Python: string, list, tuple, set, dict
-    - лекция
+    - [лекция](https://github.com/idkisl/PythonCourse_2025/blob/a12016e551e9b0463725fe71825c06df8932d96a/02/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%202.%20%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8.pdf)
     - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/e59cd78f8a9ee803a9c89c406705acec39613de0/02/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_collections.ipynb)
     - домашнее задание
 03. Функции в Python: принимаемые аргументы и возвращаемые значения, функции высших порядков. Декораторы. Генераторы. Итераторы.
