@@ -19,57 +19,18 @@
     - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/4dc32a2eda0f9c053a20f0510091988420100e70/01/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_control_structures.ipynb)
     - домашнее задание
 02. Коллекции в Python: string, list, tuple, set, dict
-    - [лекция](https://github.com/idkisl/PythonCourse_2025/blob/a12016e551e9b0463725fe71825c06df8932d96a/02/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%202.%20%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8.pdf)
-    - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/e59cd78f8a9ee803a9c89c406705acec39613de0/02/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_collections.ipynb)
-    - домашнее задание
 03. Функции в Python: принимаемые аргументы и возвращаемые значения, функции высших порядков. Декораторы. Генераторы. Итераторы.
-    - лекция
-    - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/673059d04a7471f9fb690e90fe78184d6ad0609e/03/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_functions.ipynb)
-    - домашнее задание
 04. ООП в Python
-    - лекция
-    - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/edc0e96f73b7ca0ed8d8de29756b99c8b09d0c5e/04/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_oop.ipynb)
-    - домашнее задание
 05. Исключения и unittest / pytest
-    - лекция
-    - семинар
-    - [домашнее задание](https://github.com/idkisl/PythonCourse_2025/blob/ceac027b79be8b5861c5e232b99e31353404e69e/05/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/practice_%20test.ipynb)
 06. Работа с файлами json, csv
-    - лекция
-    - семинар
-    - [домашнее задание](https://github.com/idkisl/PythonCourse_2025/blob/ceac027b79be8b5861c5e232b99e31353404e69e/06/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/practice_%20files.ipynb)
 07. Модуль NumPy
-    - лекция
-    - семинар
-    - [домашнее задание](https://github.com/idkisl/PythonCourse_2025/blob/ceac027b79be8b5861c5e232b99e31353404e69e/07/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/practice_numpy.ipynb)
 08. Модуль Matplotlib
-    - лекция
-    - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/d0e3a8c354de730cf787795b3ee3dbc7ee7665eb/08/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/practice_matplotlib.ipynb)
-    - [домашнее задание](https://github.com/idkisl/PythonCourse_2025/blob/ceac027b79be8b5861c5e232b99e31353404e69e/08/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/practice_matplotlib.ipynb)
 09. Модуль Pandas, обзор polars
-    - лекция
-    - семинар
-    - [домашнее задание](https://github.com/idkisl/PythonCourse_2025/blob/ceac027b79be8b5861c5e232b99e31353404e69e/09/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/practice_pandas.ipynb)
 10. Модуль requests. Работа с HTTP, socket
-    - лекция
-    - семинар
-    - домашнее задание
 11. Фреймворк Flask, FastApi
-    - лекция
-    - семинар
-    - домашнее задание
 12. DataBase & SQL
-    - лекция
-    - семинар
-    - домашнее задание
 13. Введение в асинхронность, Telegram API
-    - лекция
-    - семинар
-    - домашнее задание
 14. Регулярные выражения, Scrapping
-    - лекция
-    - семинар
-    - домашнее задание
 15. Hosting для проектов. Защита проектов.
 
 ## Внешний вид программы
