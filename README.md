@@ -15,8 +15,8 @@
 ## Программа курса
 
 01. Управляющие конструкции
-    - [лекция](https://github.com/idkisl/PythonCourse_2025/blob/926977ada2c6af3d681ceb14dac58aa038a9d9e4/01/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%201.%20%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8.pdf)
-    - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/4dc32a2eda0f9c053a20f0510091988420100e70/01/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_control_structures.ipynb)
+    - [лекция](https://github.com/idkisl/PythonCourse_2025/blob/985a70aa80bdc994c19a40e27415dbef5d6aaa44/01/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%201.%20%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8.pdf)
+    - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/985a70aa80bdc994c19a40e27415dbef5d6aaa44/01/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_control_structures.ipynb)
     - домашнее задание
 02. Коллекции в Python: string, list, tuple, set, dict
 03. Функции в Python: принимаемые аргументы и возвращаемые значения, функции высших порядков. Декораторы. Генераторы. Итераторы.
