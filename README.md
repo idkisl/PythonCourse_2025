@@ -12,6 +12,8 @@
 
 В случае, если студент сдает устный экзамен или проектную работу на неудовлетворительный балл (строго менее 3), в ведомость выставляется оценка неудовлетворительно.
 
+Ведомость курса [ссылка](https://docs.google.com/spreadsheets/d/1TPMavod7w80orGsUYOXcLXWl4rFiGfGwrMzFKQBlJPo/edit?usp=sharing)
+
 ## Программа курса
 
 01. Управляющие конструкции
@@ -19,6 +21,9 @@
     - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/985a70aa80bdc994c19a40e27415dbef5d6aaa44/01/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_control_structures.ipynb)
     - домашнее задание
 02. Коллекции в Python: string, list, tuple, set, dict
+    - [лекция](https://github.com/idkisl/PythonCourse_2025/blob/0a17d313e3a807f8fe2f878f06bf06a1ceb24228/02/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%202.%20%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8.pdf)
+    - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/0a17d313e3a807f8fe2f878f06bf06a1ceb24228/02/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_collections.ipynb)
+    - домашнее задание
 03. Функции в Python: принимаемые аргументы и возвращаемые значения, функции высших порядков. Декораторы. Генераторы. Итераторы.
 04. ООП в Python
 05. Исключения и unittest / pytest
