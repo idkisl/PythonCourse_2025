@@ -25,13 +25,13 @@
     - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/0a17d313e3a807f8fe2f878f06bf06a1ceb24228/02/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_collections.ipynb)
     - [домашнее задание](https://contest.yandex.ru/contest/81702/problems/)
 03. Функции в Python: принимаемые аргументы и возвращаемые значения, функции высших порядков. Декораторы. Генераторы. Итераторы.
-- [лекция](https://github.com/idkisl/PythonCourse_2025/blob/0abbbd79769fe98fb2825e5da640be06010f04e9/03/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F/lection_3_functions.ipynb)
-- [семинар](https://github.com/idkisl/PythonCourse_2025/blob/0abbbd79769fe98fb2825e5da640be06010f04e9/03/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_functions.ipynb)
-- [домашнее задание](https://contest.yandex.ru/contest/82008/)
+    - [лекция](https://github.com/idkisl/PythonCourse_2025/blob/0abbbd79769fe98fb2825e5da640be06010f04e9/03/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F/lection_3_functions.ipynb)
+    - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/0abbbd79769fe98fb2825e5da640be06010f04e9/03/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_functions.ipynb)
+    - [домашнее задание](https://contest.yandex.ru/contest/82008/)
 04. ООП в Python
-- [лекция](https://github.com/idkisl/PythonCourse_2025/blob/0abbbd79769fe98fb2825e5da640be06010f04e9/04/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F/lection_4_oop.ipynb)
-- [семинар](https://github.com/idkisl/PythonCourse_2025/blob/0abbbd79769fe98fb2825e5da640be06010f04e9/04/%D1%81%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_oop.ipynb)
-- [домашнее задание](https://contest.yandex.ru/contest/82427/)
+    - [лекция](https://github.com/idkisl/PythonCourse_2025/blob/0abbbd79769fe98fb2825e5da640be06010f04e9/04/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F/lection_4_oop.ipynb)
+    - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/0abbbd79769fe98fb2825e5da640be06010f04e9/04/%D1%81%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_oop.ipynb)
+    - [домашнее задание](https://contest.yandex.ru/contest/82427/)
 05. Исключения и unittest / pytest
 06. Работа с файлами json, csv
 07. Модуль NumPy
