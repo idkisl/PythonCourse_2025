@@ -33,6 +33,10 @@
     - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/0abbbd79769fe98fb2825e5da640be06010f04e9/04/%D1%81%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_oop.ipynb)
     - [домашнее задание](https://contest.yandex.ru/contest/82427/)
 05. Исключения и unittest / pytest
+    - [лекция]()
+    - [семинар]()
+    - [Домашнее задание]()
+    - [Сдать домашнее задание](https://forms.gle/xypggha4BBsamzXn8)
 06. Работа с файлами json, csv
 07. Модуль NumPy
 08. Модуль Matplotlib
