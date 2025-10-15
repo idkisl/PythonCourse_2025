@@ -1,0 +1,16 @@
+{
+  "Nikita": {
+    "age": 19,
+    "pro_progger": true,
+    "student": true
+  },
+  "Dima": {
+    "age": 20,
+    "pro_progger": false,
+    "student": true
+  },
+  "Алексей": {
+    "возраст": 19,
+    "лучший студент мира": true
+  }
+}
