@@ -1,0 +1,16 @@
+id,university_name,country,city,established_year,world_rank,academic_reputation_score,employer_reputation_score,faculty_student_ratio,international_faculty_ratio,website
+1,Massachusetts Institute of Technology (MIT),United States,Cambridge,1861,1,100.0,100.0,100.0,100.0,https://web.mit.edu/
+2,University of Cambridge,United Kingdom,Cambridge,1209,2,100.0,100.0,99.5,99.8,https://www.cam.ac.uk/
+3,Stanford University,United States,Stanford,1885,3,100.0,100.0,98.7,99.2,https://www.stanford.edu/
+4,University of Oxford,United Kingdom,Oxford,1096,4,100.0,100.0,98.9,99.5,https://www.ox.ac.uk/
+5,Harvard University,United States,Cambridge,1636,5,100.0,100.0,97.8,98.9,https://www.harvard.edu/
+6,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,Zurich,1855,6,99.8,99.5,97.5,99.9,https://ethz.ch/
+7,National University of Singapore (NUS),Singapore,Singapore,1905,8,99.5,99.2,95.8,98.5,https://www.nus.edu.sg/
+8,University of Tokyo,Japan,Tokyo,1877,9,99.3,98.8,94.2,85.7,https://www.u-tokyo.ac.jp/
+9,Tsinghua University,China,Beijing,1911,10,99.4,99.1,95.1,75.3,https://www.tsinghua.edu.cn/
+10,University of Toronto,Canada,Toronto,1827,11,98.9,98.5,93.8,96.4,https://www.utoronto.ca/
+11,Lomonosov Moscow State University,Russia,Moscow,1755,87,85.6,82.3,78.9,65.4,https://www.msu.ru/
+12,University of Cape Town,South Africa,Cape Town,1829,125,80.1,75.8,70.2,81.5,https://www.uct.ac.za/
+13,University of Buenos Aires,Argentina,Buenos Aires,1821,156,75.8,72.1,65.8,45.2,https://www.uba.ar/
+14,Indian Institute of Technology Bombay,India,Mumbai,1958,172,73.5,70.8,82.1,25.7,https://www.iitb.ac.in/
+15,Cairo University,Egypt,Giza,1908,245,65.2,60.8,55.4,35.1,https://cu.edu.eg/
