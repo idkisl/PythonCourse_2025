@@ -37,12 +37,12 @@
 05. Исключения и unittest / pytest
     - [лекция](05/Лекция)
     - [семинар](05/Семинар)
-    - [домашнее задание](05/Домашнее задание/practice_test.ipynb)
+    - [домашнее задание](05/ДЗ)
     - [сдать домашнее задание](https://forms.gle/xypggha4BBsamzXn8)
 06. Работа с файлами json, csv
     - [лекция](06/Лекция)
     - [семинар](06/Семинар)
-    - [домашнее задание](06/Домашнее задание)
+    - [домашнее задание](06/ДЗ)
     - [сдать домашнее задание](https://docs.google.com/forms/d/e/1FAIpQLSf9OuueYcco3hNWmVitPL9tIqKKgOq754VUfpFY1J4w0AZSNg/viewform?usp=header)
 07. Модуль NumPy
 08. Модуль Matplotlib
