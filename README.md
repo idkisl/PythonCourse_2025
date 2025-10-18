@@ -31,8 +31,8 @@
     - [семинар](03/Семинар/workshop_functions.ipynb)
     - [домашнее задание](https://contest.yandex.ru/contest/82008/)
 04. ООП в Python
-    - [лекция](04/лекция/lecture_4_oop.ipynb)
-    - [семинар](04/семинар/workshop_oop.ipynb)
+    - [лекция](04/Лекция/lecture_4_oop.ipynb)
+    - [семинар](04/Семинар/workshop_oop.ipynb)
     - [домашнее задание](https://contest.yandex.ru/contest/82427/)
 05. Исключения и unittest / pytest
     - [лекция](05/Лекция)
