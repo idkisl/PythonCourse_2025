@@ -20,30 +20,29 @@
 ## Программа курса
 
 01. Управляющие конструкции
-    - [лекция](https://github.com/idkisl/PythonCourse_2025/blob/985a70aa80bdc994c19a40e27415dbef5d6aaa44/01/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%201.%20%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8.pdf)
-    - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/985a70aa80bdc994c19a40e27415dbef5d6aaa44/01/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_control_structures.ipynb)
-    - [домашнее задание](https://contest.yandex.ru/contest/81282/problems/)
+    - [лекция](01/Лекция/Лекция 1. Управляющие конструкции.pdf)
+    - [семинар](01/Семинар/workshop_control_structures.ipynb)
 02. Коллекции в Python: string, list, tuple, set, dict
-    - [лекция](https://github.com/idkisl/PythonCourse_2025/blob/0a17d313e3a807f8fe2f878f06bf06a1ceb24228/02/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%202.%20%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8.pdf)
-    - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/0a17d313e3a807f8fe2f878f06bf06a1ceb24228/02/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_collections.ipynb)
+    - [лекция](02/Лекция/Лекция 2. Коллекции.pdf)
+    - [семинар](02/Семинар/workshop_collections.ipynb)
     - [домашнее задание](https://contest.yandex.ru/contest/81702/problems/)
 03. Функции в Python: принимаемые аргументы и возвращаемые значения, функции высших порядков. Декораторы. Генераторы. Итераторы.
-    - [лекция](https://github.com/idkisl/PythonCourse_2025/blob/4fbdd1339bdb761b89cf0c3e4953741e785d40ab/03/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F/lecture_3_functions.ipynb)
-    - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/0abbbd79769fe98fb2825e5da640be06010f04e9/03/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_functions.ipynb)
+    - [лекция](03/Лекция/lecture_3_functions.ipynb)
+    - [семинар](03/Семинар/workshop_functions.ipynb)
     - [домашнее задание](https://contest.yandex.ru/contest/82008/)
 04. ООП в Python
-    - [лекция](https://github.com/idkisl/PythonCourse_2025/blob/4fbdd1339bdb761b89cf0c3e4953741e785d40ab/04/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F/lecture_4_oop.ipynb)
-    - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/0abbbd79769fe98fb2825e5da640be06010f04e9/04/%D1%81%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_oop.ipynb)
+    - [лекция](04/лекция/lecture_4_oop.ipynb)
+    - [семинар](04/семинар/workshop_oop.ipynb)
     - [домашнее задание](https://contest.yandex.ru/contest/82427/)
 05. Исключения и unittest / pytest
-    - [лекция](https://github.com/idkisl/PythonCourse_2025/tree/4fbdd1339bdb761b89cf0c3e4953741e785d40ab/05/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F)
-    - [семинар](https://github.com/idkisl/PythonCourse_2025/blob/684f84863e124a39477a3a86967190cce8f60c66/05/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80/workshop_tests.ipynb)
-    - [домашнее задание](https://github.com/idkisl/PythonCourse_2025/blob/684f84863e124a39477a3a86967190cce8f60c66/05/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/practice_%20test.ipynb)
+    - [лекция](05/Лекция)
+    - [семинар](05/Семинар)
+    - [домашнее задание](05/Домашнее задание)
     - [сдать домашнее задание](https://forms.gle/xypggha4BBsamzXn8)
 06. Работа с файлами json, csv
     - [лекция](06/Лекция)
-    - [семинар](https://github.com/idkisl/PythonCourse_2025/tree/main/06/Семинар)
-    - [домашнее задание](https://github.com/idkisl/PythonCourse_2025/tree/main/06/Домашнее%20задание)
+    - [семинар](06/Семинар)
+    - [домашнее задание](06/Домашнее задание)
     - [сдать домашнее задание](https://docs.google.com/forms/d/e/1FAIpQLSf9OuueYcco3hNWmVitPL9tIqKKgOq754VUfpFY1J4w0AZSNg/viewform?usp=header)
 07. Модуль NumPy
 08. Модуль Matplotlib
