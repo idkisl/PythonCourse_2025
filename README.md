@@ -45,7 +45,15 @@
     - [домашнее задание](06/ДЗ)
     - [сдать домашнее задание](https://docs.google.com/forms/d/e/1FAIpQLSf9OuueYcco3hNWmVitPL9tIqKKgOq754VUfpFY1J4w0AZSNg/viewform?usp=header)
 07. Модуль NumPy
+    - [лекция](07/Лекция)
+    - [семинар](07/Семинар)
+    - [домашнее задание](07/ДЗ)
+    - [сдать домашнее задание](https://forms.gle/WVoFUE9v7daVzJaQA)
 08. Модуль Matplotlib
+    - [лекция](08/Лекция)
+    - [семинар](08/Семинар)
+    - [домашнее задание](08/ДЗ)
+    - [сдать домашнее задание](https://forms.gle/mRCX265ohnng4JK77)
 09. Модуль Pandas
 10. Модуль requests. Работа с HTTP, socket
 11. Фреймворк Flask, FastApi
