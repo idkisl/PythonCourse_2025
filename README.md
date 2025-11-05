@@ -55,6 +55,10 @@
     - [домашнее задание](08/ДЗ)
     - [сдать домашнее задание](https://forms.gle/mRCX265ohnng4JK77)
 09. Модуль Pandas
+    - [лекция](09/Лекция)
+    - [семинар](09/Семинар)
+    - [домашнее задание](09/ДЗ)
+    - [сдать домашнее задание](https://docs.google.com/forms/d/e/1FAIpQLScVC-C0yVBjBxs81UU3AwS93KwFMf3sSX0hlcusu7gIjYsV8g/viewform?usp=dialog)
 10. Модуль requests. Работа с HTTP, socket
 11. Фреймворк Flask, FastApi
 12. DataBase & SQL
