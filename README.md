@@ -60,6 +60,10 @@
     - [домашнее задание](09/ДЗ)
     - [сдать домашнее задание](https://docs.google.com/forms/d/e/1FAIpQLScVC-C0yVBjBxs81UU3AwS93KwFMf3sSX0hlcusu7gIjYsV8g/viewform?usp=dialog)
 10. Модуль requests. Работа с HTTP, socket
+    - [лекция](10/Лекция)
+    - [семинар](10/Семинар)
+    - [домашнее задание](10/ДЗ)
+    - [сдать домашнее задание](https://docs.google.com/forms/d/e/1FAIpQLSfVboT_5ZaZC1tWxCxZrfJkVXP4Iyf68OAw3zYruOlUmzb8_w/viewform?usp=dialog)
 11. Фреймворк Flask, FastApi
 12. DataBase & SQL
 13. Введение в асинхронность, Telegram API
