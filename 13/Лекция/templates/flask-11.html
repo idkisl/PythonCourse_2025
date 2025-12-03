@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    {% if password == "1234" %}
+        <p>Привет, {{ name }}!</p>
+    {% else %}
+        <p>Пароль неверный!</p>
+    {% endif %}
+    <br>
+    <br>
+    Желаем тебе:
+    <br>
+    {% for item in nice_words %}
+        <li>{{ item }}</li>
+    {% endfor %}
+</body>
+</html>
